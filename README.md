@@ -132,9 +132,10 @@ Converted to TensorFlow Lite/ONNX (optional) for use with ESP32-CAM + Edge ML su
 ---
 
 ## 👨‍💻 Contributors
-
-- **Ani** – YOLOv8 training, system integration
-- [Add your teammates here if any]
+ion
+- **Aniketh Menon** 
+- **Varun Suresh** 
+- **Arunachala** 
 
 ---
 
